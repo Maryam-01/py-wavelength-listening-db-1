@@ -1,0 +1,3 @@
+-- seed.sql
+-- Write your INSERT statements here.
+-- Follow the same dependency order as schema.sql.

@@ -1,0 +1,4 @@
+-- schema.sql
+-- Write your CREATE TABLE statements here.
+-- Work through the tables in dependency order:
+-- tables with no foreign keys first, then tables that reference them.

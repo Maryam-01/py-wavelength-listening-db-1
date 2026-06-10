@@ -1,0 +1,19 @@
+event_id,username,user_join_date,track_title,artist_name,artist_country,genre,duration_secs,playlist_title,playlist_owner,listened_at,completion_pct,device_type
+1,nova_ears,2022-03-14,Resonance,Kaito Mori,Japan,Ambient,312,Late Night Drift,nova_ears,2024-11-01T22:14:00,87,mobile
+2,nova_ears,2022-03-14,Resonance,Kaito Mori,Japan,Ambient,312,Late Night Drift,nova_ears,2024-11-02T23:01:00,100,desktop
+3,rhythmbox,2021-07-09,Glass Static,Nadia Voss,Germany,Experimental,274,Commute Mix,rhythmbox,2024-11-03T08:22:00,45,mobile
+4,waveform99,2023-01-15,Neon Patience,Sol Ferreira,Brazil,Electronic,215,Focus Zone,deeplistener,2024-11-03T12:05:00,100,desktop
+5,deeplistener,2020-11-22,Hollow Shore,Marcus Webb,United Kingdom,Jazz,287,Focus Zone,deeplistener,2024-11-04T09:11:00,73,mobile
+6,nova_ears,2022-03-14,Drift Protocol,Sol Ferreira,Brazil,Electronic,198,Late Night Drift,nova_ears,2024-11-04T21:30:00,100,desktop
+7,rhythmbox,2021-07-09,River Algorithm,Lena Frost,Sweden,Indie,263,Commute Mix,rhythmbox,2024-11-05T07:45:00,62,mobile
+8,trackjunkie,2022-08-03,Neon Patience,Sol Ferreira,Brazil,Electronic,215,Focus Zone,deeplistener,2024-11-05T14:22:00,100,desktop
+9,waveform99,2023-01-15,Mountain Signal,Priya Nair,India,Folk,241,Sunday Slow,waveform99,2024-11-05T18:30:00,88,tablet
+10,deeplistener,2020-11-22,Resonance,Kaito Mori,Japan,Ambient,312,Focus Zone,deeplistener,2024-11-06T11:00:00,100,desktop
+11,nova_ears,2022-03-14,River Algorithm,Lena Frost,Sweden,Indie,263,Late Night Drift,nova_ears,2024-11-06T22:15:00,55,mobile
+12,rhythmbox,2021-07-09,Late Bloom,Kaito Mori,Japan,Ambient,330,Commute Mix,rhythmbox,2024-11-07T08:00:00,100,mobile
+13,trackjunkie,2022-08-03,Drift Protocol,Sol Ferreira,Brazil,Electronic,198,Focus Zone,deeplistener,2024-11-07T16:45:00,90,desktop
+14,waveform99,2023-01-15,Copper Rain,Marcus Webb,United Kingdom,Jazz,278,Sunday Slow,waveform99,2024-11-08T13:20:00,78,tablet
+15,deeplistener,2020-11-22,Neon Patience,Sol Ferreira,Brazil,Electronic,215,Focus Zone,deeplistener,2024-11-08T20:00:00,100,desktop
+16,nova_ears,2022-03-14,Hollow Shore,Marcus Webb,United Kingdom,Jazz,287,Late Night Drift,nova_ears,2024-11-09T23:10:00,100,mobile
+17,rhythmbox,2021-07-09,Quiet Circuit,Kaito Mori,Japan,Ambient,345,Commute Mix,rhythmbox,2024-11-10T07:30:00,42,mobile
+18,trackjunkie,2022-08-03,River Algorithm,Lena Frost,Sweden,Indie,263,Focus Zone,deeplistener,2024-11-10T12:00:00,100,desktop

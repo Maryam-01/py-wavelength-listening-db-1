@@ -1,0 +1,14 @@
+[
+  { "track_id": 1,  "title": "Resonance",       "artist_id": 1, "duration_secs": 312, "release_date": "2021-03-14", "play_count": 4821 },
+  { "track_id": 2,  "title": "Glass Static",    "artist_id": 2, "duration_secs": 274, "release_date": "2022-07-01", "play_count": 2103 },
+  { "track_id": 3,  "title": "Drift Protocol",  "artist_id": 3, "duration_secs": 198, "release_date": "2023-01-15", "play_count": 7654 },
+  { "track_id": 4,  "title": "Mountain Signal", "artist_id": 4, "duration_secs": 241, "release_date": "2020-09-22", "play_count": 1823 },
+  { "track_id": 5,  "title": "Late Bloom",      "artist_id": 1, "duration_secs": 330, "release_date": "2022-11-08", "play_count": 3012 },
+  { "track_id": 6,  "title": "Hollow Shore",    "artist_id": 5, "duration_secs": 287, "release_date": "2021-06-30", "play_count": 5490 },
+  { "track_id": 7,  "title": "Neon Patience",   "artist_id": 3, "duration_secs": 215, "release_date": "2023-04-12", "play_count": 9102 },
+  { "track_id": 8,  "title": "Iron Garden",     "artist_id": 2, "duration_secs": 310, "release_date": "2020-02-14", "play_count": 1245 },
+  { "track_id": 9,  "title": "River Algorithm", "artist_id": 6, "duration_secs": 263, "release_date": "2022-08-19", "play_count": 6721 },
+  { "track_id": 10, "title": "Quiet Circuit",   "artist_id": 1, "duration_secs": 345, "release_date": "2023-09-01", "play_count": 2890 },
+  { "track_id": 11, "title": "Paper Signal",    "artist_id": 4, "duration_secs": 198, "release_date": "2021-12-05", "play_count": 3301 },
+  { "track_id": 12, "title": "Copper Rain",     "artist_id": 5, "duration_secs": 278, "release_date": "2022-03-21", "play_count": 4120 }
+]

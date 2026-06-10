@@ -1,0 +1,8 @@
+[
+  { "artist_id": 1, "name": "Kaito Mori",    "country": "Japan",          "genre": "Ambient"       },
+  { "artist_id": 2, "name": "Nadia Voss",    "country": "Germany",        "genre": "Experimental"  },
+  { "artist_id": 3, "name": "Sol Ferreira",  "country": "Brazil",         "genre": "Electronic"    },
+  { "artist_id": 4, "name": "Priya Nair",    "country": "India",          "genre": "Folk"          },
+  { "artist_id": 5, "name": "Marcus Webb",   "country": "United Kingdom", "genre": "Jazz"          },
+  { "artist_id": 6, "name": "Lena Frost",    "country": "Sweden",         "genre": "Indie"         }
+]

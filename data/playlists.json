@@ -1,0 +1,6 @@
+[
+  { "playlist_id": 1, "title": "Late Night Drift", "owner_id": 1, "created_date": "2022-04-01", "track_ids": [1, 5, 10, 9] },
+  { "playlist_id": 2, "title": "Commute Mix",      "owner_id": 2, "created_date": "2021-09-15", "track_ids": [2, 7, 3, 6] },
+  { "playlist_id": 3, "title": "Sunday Slow",      "owner_id": 3, "created_date": "2023-02-20", "track_ids": [4, 11, 5, 12] },
+  { "playlist_id": 4, "title": "Focus Zone",       "owner_id": 4, "created_date": "2021-01-10", "track_ids": [7, 9, 3, 1, 6] }
+]
